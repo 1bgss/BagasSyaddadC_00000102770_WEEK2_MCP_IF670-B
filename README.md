@@ -1,3 +1,7 @@
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -39,7 +43,8 @@ This command will move the starter code to the **app-example** directory and cre
 
 To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topi<img width="1905" height="898" alt="Screenshot 2026-02-11 163936" src="https://github.com/user-attachments/assets/da0bfe16-7f50-4f9c-adf3-704f0377b796" />
+cs with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
